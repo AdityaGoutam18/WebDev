@@ -1,0 +1,12 @@
+h1{
+    /* background-color: orange; */
+    /* border-style: solid;
+    border-radius: 2px;
+    border-width: 5px 2px 4px 1px;
+    border-color: orange green red blue; */
+
+    /*  Border - Shorthand */
+
+    border: 2px solid black;
+    border-bottom: 5px solid orange;
+}

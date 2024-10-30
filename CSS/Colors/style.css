@@ -1,0 +1,9 @@
+h1{
+    /* color: orange; */
+    /* color: rgb(255, 180, 0); */
+    /* color: rgba(0, 0, 0, 0.5); */
+    /* color: #0000ff; */
+    color: hsl(0, 100%, 50%);
+    /* border: 2px solid orange; */
+    border: 2px solid rgb(255, 165, 0);
+}
